@@ -1,1 +1,1 @@
-# a solution to 9.13 LAB Course Info (derived classes)
+# Solution to 9.13 LAB Course Info (derived classes)
